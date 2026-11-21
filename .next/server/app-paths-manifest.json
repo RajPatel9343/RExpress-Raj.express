@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/api/cart/route": "app/api/cart/route.js",
-  "/api/auth/me/route": "app/api/auth/me/route.js",
-  "/api/wishlist/route": "app/api/wishlist/route.js",
-  "/products/page": "app/products/page.js"
-}
